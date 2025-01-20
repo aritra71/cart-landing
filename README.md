@@ -8,4 +8,5 @@ A simple and interactive **E-commerce landing page** featuring **Add-to-Cart fun
 - **Cart Summary**: View the products added to the cart before proceeding to checkout.
 - **Responsive Design**: Fully optimized for all device sizes (mobile, tablet, desktop).
 - **Real-Time Updates**: Instant updates to the cart as products are added or removed.
+  
 The **E-commerce Landing Page** provides a seamless shopping experience, allowing users to discover products and manage their cart effortlessly.
